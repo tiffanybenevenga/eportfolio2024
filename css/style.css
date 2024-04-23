@@ -50,7 +50,8 @@ h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
-    color: #012030;
+   /*Headings Color*/
+	color: #121D40;
 }
 
 p {
@@ -59,11 +60,13 @@ p {
     font-weight: 300;
 	line-height: 23px;
     letter-spacing: 0.2px;
-    color: #13678A;
+	/*Paragraph Text Color*/
+    color: #483B59;
 }
 
 a:hover, a:focus, a:active, a.active {
-    color: #fec503;
+/*Link Color*/
+    color: #6F5173;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
@@ -458,10 +461,10 @@ figure.effect-bubba:hover p {
 /*--------------------
 4.4. Dark Short section (counters, quote, etc)
 --------------------*/
-
+/*Dark Background Color*/
 .dark-bg {
-    background: #9AEBA3;
-    color: #fff;
+    background: #F28D9F;
+    /*color: #fff;*/
 }
 
 .bg-img1 {
@@ -471,9 +474,9 @@ figure.effect-bubba:hover p {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-
+/*Light Background Color*/
 .light-bg {
-	background-color: #DAFDBA;
+	background-color: #F2D0D0;
 }
 
 .overlay-dark:before, .overlay-light:before {
