@@ -250,21 +250,22 @@ header .intro-text .intro-heading {
 /*--------------------
 4.1. About
 --------------------*/
-
+/*Header Color*/
 .mz-module-about h3 {
     font-weight: 500;
     font-size: 17px;
     text-transform: uppercase;
-    color: #012030;
+    color: #121D40;
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
 
+/* Paragraph Color*/
 .mz-module-about p {
 font-size: 14px;
     font-weight: 300;
     line-height: 22px;
-    color: #13678A;
+    color: #483B59;
 }
 
 .ot-circle {
@@ -706,11 +707,11 @@ font-size: 11px;
     border: 1px solid transparent;
     border-radius: 4px;
 }
-
+/*Button Color*/
 .btn-xl {
     color: #fff;
-     background-color: #45C4B0;
-    border-color: #45C4B0;
+     background-color: #6F5173;
+    border-color: #6F5173;
     font-family: "Robot",sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -769,14 +770,15 @@ and (max-width : 480px) {
 }
 }
 
+/*Link Color*/
 a{
-  color: #45C4B0;
+  color: #6F5173;
 }
 
 a:hover, a:focus, a:active{
-  color: #012030;
+  color: #483B59;
 }
 
 a:visited{
-  color: #25695E;
+  color: #121D40;
 }
