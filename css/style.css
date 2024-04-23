@@ -169,9 +169,9 @@ section {
 /*--------------------
 3. Header
 --------------------*/
-
+/*Header Background Image*/
 header {
-    background-image: url(../images/header.jpeg);
+    background-image: url(../images/header.png);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
